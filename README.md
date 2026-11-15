@@ -12,8 +12,7 @@ Ten years shipping web and mobile in TypeScript, React, React Native, Node.js, P
 | [recall-desk.mniznik](https://github.com/mattniznik/recall-desk.mniznik) | A support agent for a fictional auto parts store. Claude answers recall, complaint, safety-rating and parts questions from NHTSA's public data with seven tools, and six code rules check every answer before a customer sees it. A 50-case evaluation, CI, and AWS Lambda behind CloudFront. [Live demo](https://recall-desk.mniznik.com) with a system map that lights up each step of a real run. |
 | [ai-rubric-grader](https://github.com/mattniznik/ai-rubric-grader) | Claude grades a submission against a rubric under a strict JSON contract. Every grade stays a draft until a person approves it. |
 | [agent-lanes](https://github.com/mattniznik/agent-lanes) | Rules that keep unattended AI agent runs safe with the Claude Code and Codex CLIs: fallback between them, deny rules, no task done twice, capped automatic fixes. |
-| [job-radar](https://github.com/mattniznik/job-radar) | A config-driven job finder over public job boards. It sorts, scores and dedupes postings, flags sponsorship lines and stores every run in SQLite. |
-| [fact-locked-resume](https://github.com/mattniznik/fact-locked-resume) | An AI tailors a résumé by choosing facts by id from one YAML file. Anything it makes up is refused before a PDF is written. |
+| [job-radar](https://github.com/mattniznik/job-radar) | A config-driven job finder over public job boards. It sorts, scores and dedupes postings, flags the dealbreakers you list and stores every run in SQLite. |
 
 Most of them come out of tools I use every week, with the personal parts taken out. They all have tests and CI.
 
