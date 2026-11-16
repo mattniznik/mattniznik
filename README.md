@@ -1,6 +1,6 @@
 # Mat Niznik
 
-Software engineer in Long Beach, CA. I put AI into real workflows and own the result: the model takes the first pass at scale, tests sit behind it, and a person makes the calls that carry real stakes.
+Applied AI engineer in Long Beach, CA. I put AI into real workflows and own the result: the model takes the first pass at scale, tests sit behind it, and a person makes the calls that carry real stakes.
 
 Ten years shipping web and mobile in TypeScript, React, React Native, Node.js, Python, Flask, Django, PostgreSQL and AWS. I also teach programming at Bethesda University of California. Open to Forward Deployed and Applied AI engineering roles.
 
